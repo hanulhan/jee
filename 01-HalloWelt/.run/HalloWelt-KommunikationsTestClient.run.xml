@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HalloWelt-KommunikationsTestClient" type="JUnit" factoryName="JUnit">
+    <module name="01-hallowelt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.hanulhan.seminar.ejb.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="org.hanulhan.seminar.ejb" />
+    <option name="MAIN_CLASS_NAME" value="org.hanulhan.seminar.ejb.KommunikationsTestClient" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
